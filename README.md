@@ -12,18 +12,5 @@
 
 ### ddos
 
-### python3 ddos-packet.py
+### ddos.py
 
-### IP: (Coloque o IP para o ataque)
-
-### Porta: (Coloque a porta do IP)
-
-### Confirme se é Packet
-
-### Confirme se é DDoS
-
-### Coloque o Tamanho do DDoS/Packet, aconselhamos 1000.
-
-### Coloque a Potência do DDoS/Packet, aconselhamos o mesmo tanto do Tamanho do DDoS/Packet
-
-### Desejo-lhe um bom ataque.
