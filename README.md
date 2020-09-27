@@ -1,4 +1,4 @@
-# DDoS-Packet 
+# ddos 
 
 ## Envie Packet ou DDoS a hota que quiser
 
