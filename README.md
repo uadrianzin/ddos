@@ -1,6 +1,6 @@
-# ddos 
+# cd ddos 
 
-## Envie Packet ou DDoS a hota que quiser
+
 
 ### Dwonload&Install
 
@@ -10,7 +10,7 @@
 
 ### git clone https://github.com/uadrianzin/ddos
 
-### ddos
+### cd ddos
 
-### ddos.py
+### python3 ddos.py
 
